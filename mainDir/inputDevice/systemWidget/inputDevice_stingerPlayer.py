@@ -1,12 +1,15 @@
+import logging
+
 import numpy as np
 
+from mainDir.errorClass.loggerClass import ErrorClass
 from mainDir.inputDevice.baseDevice.inputDevice_Base import InputDevice_BaseClass
 from mainDir.inputDevice.systemWidget.inputObject.inputObject_StingerPlayer import \
     InputObject_StingerPlayerForMixBus
-from mainDir.inputDevice.systemWidget.stingerWidget.stingerLoaderWidget import StingerLoaderWidget
+from mainDir.inputDevice.systemWidget.systemWidget.stingerLoaderWidget import StingerLoaderWidget
 
 
-class InputDevice_StingerAnimation(InputDevice_BaseClass):
+class InputDevice_StingerPlayer_mb(InputDevice_BaseClass):
     """
         An InputDevice is any input of the mixer.
         It put together the thread, the input object and the graphic interface
@@ -31,6 +34,7 @@ class InputDevice_StingerAnimation(InputDevice_BaseClass):
             black = np.zeros((1080, 1920, 4), np.uint8)
             return black, black
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def setStingerPremultipliedImages(self, images: list):
         """
         Set the pre-multiplied images of the stinger.
@@ -40,6 +44,7 @@ class InputDevice_StingerAnimation(InputDevice_BaseClass):
         """
         self._input_object.setStingerPremultipliedImages(images)
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def getStingerPremultipliedImages(self):
         """
         Get the pre-multiplied images of the stinger.
@@ -49,6 +54,7 @@ class InputDevice_StingerAnimation(InputDevice_BaseClass):
         """
         return self._input_object.stingerPreMultipliedImages
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def setStingerInvAlphaImages(self, images: list):
         """
         Set the inverse alpha images of the stinger.
@@ -58,6 +64,7 @@ class InputDevice_StingerAnimation(InputDevice_BaseClass):
         """
         self._input_object.setStingerInvAlphaImages(images)
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def getStingerInvAlphaImages(self):
         """
         Get the inverse alpha images of the stinger.
@@ -67,6 +74,7 @@ class InputDevice_StingerAnimation(InputDevice_BaseClass):
         """
         return self._input_object.stingerInvAlphaImages
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def setCacheData(self, cacheData):
         """
         cache_data = {
@@ -83,12 +91,14 @@ class InputDevice_StingerAnimation(InputDevice_BaseClass):
         self._input_object.stingerPreMultipliedImagesPath = cacheData.get('premultiplyDirectory', "")
         self._input_object.stingerPath = cacheData.get('stingerFolder', "")
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def getLength(self):
         if self._input_object:
             return self._input_object.getLength()
         print("WARNING FROM STINGER DEVICE: Input object not found.")
         return 0
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def setIndex(self, index):
         if self._input_object:
             self._input_object.setIndex(index)
@@ -96,6 +106,7 @@ class InputDevice_StingerAnimation(InputDevice_BaseClass):
     def onParamsChanged(self, data):
         pass
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def serialize(self):
         """
         Serializes the current state of the input device (Noise generator) into a dictionary.

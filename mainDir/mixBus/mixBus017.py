@@ -7,7 +7,7 @@ import cv2
 import numpy as np
 from PyQt6.QtCore import *
 
-from mainDir.inputDevice.systemWidget.inputDevice_stingerPlayer import InputDevice_StingerAnimation
+from mainDir.inputDevice.systemWidget.inputDevice_stingerPlayer import InputDevice_StingerPlayer_mb
 
 
 class MIX_TYPE(Enum):

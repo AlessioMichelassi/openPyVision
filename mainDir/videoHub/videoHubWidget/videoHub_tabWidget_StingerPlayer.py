@@ -5,7 +5,7 @@ from PyQt6.QtCore import Qt, QTimer
 from PyQt6.QtWidgets import QApplication, QWidget, QGridLayout, QLabel, QCheckBox
 from PyQt6.QtGui import QFont, QPixmap, QImage
 from mainDir.errorClass.loggerClass import error_logger
-from mainDir.inputDevice.systemWidget.inputDevice_stingerPlayer import InputDevice_StingerAnimation
+from mainDir.inputDevice.systemWidget.inputDevice_stingerPlayer import InputDevice_StingerPlayer_mb
 from mainDir.videoHub.videoHubData018 import VideoHubData018
 
 class TabWidget_StingerPlayer(QWidget):
@@ -36,7 +36,7 @@ class TabWidget_StingerPlayer(QWidget):
             label = QLabel(f"Input_{i}")
             label.setFont(QFont("Arial", 12, QFont.Weight.Bold))
 
-            stingerPlayerDevice = InputDevice_StingerAnimation(str(i), self, stingerNumber=i - self.start)
+            stingerPlayerDevice = InputDevice_StingerPlayer_mb(str(i), self, stingerNumber=i - self.start)
             self.videoHubData.addStingerPlayer(i, stingerPlayerDevice)
             self.stingerPlayers.append(stingerPlayerDevice)
 

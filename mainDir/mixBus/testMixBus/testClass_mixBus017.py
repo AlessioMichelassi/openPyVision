@@ -6,7 +6,7 @@ from PyQt6.QtWidgets import *
 
 from mainDir.inputDevice.generatorDevice.inputDevice_colorGenerator import InputDevice_ColorGenerator
 from mainDir.inputDevice.generatorDevice.inputDevice_noiseGenerator import InputDevice_NoiseGenerator
-from mainDir.inputDevice.systemWidget.inputDevice_stingerPlayer import InputDevice_StingerAnimation
+from mainDir.inputDevice.systemWidget.inputDevice_stingerPlayer import InputDevice_StingerPlayer_mb
 from mainDir.inputDevice.systemWidget.inputObject.inputObject_StingerPlayer import InputObject_StingerPlayerForMixBus
 from mainDir.inputDevice.systemWidget.threadLoader.stingerLoaderV04T import StingerLoaderV04T
 from mainDir.mixBus.mixBus017 import MIX_TYPE, MixBus017_NoThread
@@ -207,7 +207,7 @@ if __name__ == '__main__':
     test.mixBus.parseTallySignal(tally_status)
     def onStingerLoaded():
         print("Stinger loaded.")
-        stingerDevice = InputDevice_StingerAnimation("Stinger Animation")
+        stingerDevice = InputDevice_StingerPlayer_mb("Stinger Animation")
         global stingerLoader
         inputObject = InputObject_StingerPlayerForMixBus(None, 0)
         inputObject.setStingerPremultipliedImages(

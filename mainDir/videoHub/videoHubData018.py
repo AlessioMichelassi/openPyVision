@@ -11,7 +11,7 @@ from mainDir.inputDevice.generatorDevice.inputDevice_noiseGenerator import Input
 from mainDir.inputDevice.generatorDevice.inputObject.generator_Black import BlackGenerator
 from mainDir.inputDevice.playerDevice.inputDevice_stillImagePlayerGenerator import \
     InputDevice_StillImagePlayer
-from mainDir.inputDevice.systemWidget.inputDevice_stingerPlayer import InputDevice_StingerAnimation
+from mainDir.inputDevice.systemWidget.inputDevice_stingerPlayer import InputDevice_StingerPlayer_mb
 
 
 class VideoHubData018(QObject):
@@ -101,7 +101,7 @@ class VideoHubData018(QObject):
         self.videoHubMatrix[stinger_position] = inputDevice
 
         # Verifica che l'oggetto sia un'istanza corretta di InputDevice_StingerAnimation
-        if isinstance(inputDevice, InputDevice_StingerAnimation):
+        if isinstance(inputDevice, InputDevice_StingerPlayer_mb):
             logging.info(f"Stinger added at position {stinger_position}.")
             self.emitTallySignal("stingerReady", position)
         else:

@@ -8,25 +8,15 @@ import numpy as np
 import cv2
 import sys
 
+from mainDir.errorClass.loggerClass import ErrorClass
 from mainDir.widgets.help.helpWidget import HelpWidget
-
-# Configurazione del logger
-logging.basicConfig(
-    level=logging.DEBUG,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler("application.log"),
-        logging.StreamHandler()
-    ]
-)
-
-logger = logging.getLogger(__name__)
 
 
 class MenuWidget(QMenuBar):
     _currentName = "untitled"
     MAX_RECENT_FILES = 5
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def __init__(self, mixEffect, main, parent=None):
         super().__init__(parent)
         self.mainWindow = main
@@ -38,6 +28,7 @@ class MenuWidget(QMenuBar):
 
         self.initUI()
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def initUI(self):
         file_menu = self.returnMenuFile()
         edit_menu = self.returnMenuEdit()
@@ -49,6 +40,7 @@ class MenuWidget(QMenuBar):
         self.addMenu(view_menu)
         self.addMenu(help_menu)
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def returnMenuFile(self):
         file_menu = self.addMenu("File")
 
@@ -77,6 +69,7 @@ class MenuWidget(QMenuBar):
         file_menu.addAction(exit_action)
         return file_menu
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def update_recent_files_menu(self):
         """Aggiorna il menu 'Open Recent' con i file recenti"""
         self.recent_menu.clear()
@@ -85,10 +78,10 @@ class MenuWidget(QMenuBar):
             action.triggered.connect(lambda checked, name=file_name: self.open_recent_file(name))
             self.recent_menu.addAction(action)
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def open_recent_file(self, file_name):
         """Apre un file recente"""
         if file_name:
-            logger.info(f"Opening recent file: {file_name}")
             print(f"Opening recent file: {file_name}")
             self._currentName = file_name
             self.mixEffect.deserialize(json.load(open(file_name)))

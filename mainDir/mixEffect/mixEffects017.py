@@ -1,8 +1,11 @@
+import logging
+
 from PyQt6.QtCore import *
 from PyQt6.QtWidgets import *
 import sys
 
 from mainDir.MrKeyboard.mixingKeyboard import MixerKeyboard
+from mainDir.errorClass.loggerClass import ErrorClass
 from mainDir.mixBus.mixBus017 import MixBus017_NoThread
 from mainDir.outputs.openGLViewerThread016 import OpenGLViewerThread016
 from mainDir.tallyManager.tallyManager import TallyManager
@@ -17,6 +20,7 @@ class MixEffect017(QWidget):
     fpsLabel = None
     time_interval = 12 # teorically 1000/60 = 16.67 but we need to consider the time to process the frame
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def __init__(self, isTestModality=False, parent=None):
         super().__init__(parent)
         self.mrKeyboard = MixerKeyboard(self)
@@ -33,9 +37,11 @@ class MixEffect017(QWidget):
         self.initConnections()
         self.initGeometry()
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def closeEvent(self, event, *args, **kwargs):
         event.accept()
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def initUI(self):
         mainLayout = QVBoxLayout()
         if self.isTestModality:
@@ -43,7 +49,6 @@ class MixEffect017(QWidget):
             self.prwViewer = OpenGLViewerThread016()
             self.prgViewer = OpenGLViewerThread016()
             self.mainOut = OpenGLViewerThread016()
-            self.mainOut.setFixedSize(1280, 720)
             self.mainOut.show()
             viewer_layout = QHBoxLayout()
             viewer_layout.addWidget(self.prwViewer)
@@ -54,12 +59,13 @@ class MixEffect017(QWidget):
         central_layout = QHBoxLayout()
         central_layout.addWidget(self.videoHubWidget)
         keyboard_Layout = QVBoxLayout()
-        keyboard_Layout.addSpacing(100)
+        keyboard_Layout.addSpacing(200)
         keyboard_Layout.addWidget(self.mrKeyboard)
         central_layout.addLayout(keyboard_Layout)
         mainLayout.addLayout(central_layout)
         self.setLayout(mainLayout)
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def initConnections(self):
         self.videoHubData.tally_SIGNAL.connect(self.tallyManager.parseTallySignal)
         self.mrKeyboard.tally_SIGNAL.connect(self.tallyManager.parseTallySignal)
@@ -77,8 +83,9 @@ class MixEffect017(QWidget):
             self.fpsLabel.setText(f"FPS: {fps:.2f}")
         return prw_frame, prg_frame, fps
 
+    @ErrorClass().log(log_level=logging.DEBUG)
     def initGeometry(self):
-        self.videoHubWidget.setMaximumWidth(1200)
+        #self.videoHubWidget.setMaximumWidth(1200)
         if self.isTestModality:
             self.prwViewer.setFixedSize(640, 360)
             self.prgViewer.setFixedSize(640, 360)
@@ -90,6 +97,6 @@ class MixEffect017(QWidget):
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-    testWindow = MixEffect017(True)
+    testWindow = MixEffect017(False)
     testWindow.show()
     sys.exit(app.exec())

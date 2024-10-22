@@ -10,7 +10,7 @@ from mainDir.inputDevice.captureDevice.inputDevice_desktopCapture import InputDe
 from mainDir.inputDevice.playerDevice.inputDevice_stillImagePlayerGenerator import \
     InputDevice_StillImagePlayer
 from mainDir.videoHub.videoHubData018 import VideoHubData018
-from mainDir.inputDevice.systemWidget.inputDevice_stingerPlayer import InputDevice_StingerAnimation
+from mainDir.inputDevice.systemWidget.inputDevice_stingerPlayer import InputDevice_StingerPlayer_mb
 
 
 class VideoHubWidget018(QWidget):
@@ -123,7 +123,7 @@ class VideoHubWidget018(QWidget):
         for i in range(1, 3):
             label = QLabel(f"Stinger {i}")
             label.setFont(QFont("Arial", 12, QFont.Weight.Bold))
-            inputDevice_Stinger = InputDevice_StingerAnimation(str(i), self)
+            inputDevice_Stinger = InputDevice_StingerPlayer_mb(str(i), self)
             self.stingerLoaderList.append(inputDevice_Stinger)
 
             # Connetti il segnale con l'indice corretto

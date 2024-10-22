@@ -1,78 +1,34 @@
 import sys
 import os
 import markdown
-from markdown.extensions.codehilite import CodeHiliteExtension
+import tempfile
 from PyQt6.QtWidgets import *
 from PyQt6.QtWebEngineWidgets import QWebEngineView
+
 
 def markdown_to_html(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         md_content = f.read()
-
     # Convert Markdown to HTML with code highlighting
-    html_content = markdown.markdown(
-        md_content,
-        extensions=['fenced_code', CodeHiliteExtension(linenums=False)]
-    )
+    html_content = markdown.markdown(md_content, extensions=['fenced_code', 'codehilite'])
+    return html_content
 
-    # CSS for dark theme with syntax highlighting for code blocks
-    dark_theme_css = """
-    <style>
-        body {
-            background-color: #1e1e1e;
-            color: #d4d4d4;
-            font-family: Arial, sans-serif;
-            padding: 15px;
-        }
-        a {
-            color: #569cd6;
-        }
-        pre {
-            background-color: #2d2d2d;
-            color: #dcdcdc;
-            padding: 10px;
-            border-radius: 5px;
-            overflow: auto;
-        }
-        code {
-            color: #ce9178;
-        }
-        .codehilite {
-            background: #2d2d2d;
-            border-radius: 5px;
-            padding: 10px;
-            overflow: auto;
-        }
-        .codehilite pre {
-            margin: 0;
-        }
-        h1, h2, h3, h4, h5, h6 {
-            color: #569cd6;
-        }
-    </style>
-    """
-
-    # Combine HTML with the dark theme CSS
-    full_html_content = f"""
-    <!DOCTYPE html>
-    <html>
-    <head>
-        <meta charset="utf-8">
-        {dark_theme_css}
-    </head>
-    <body>
-        {html_content}
-    </body>
-    </html>
-    """
-
-    return full_html_content
 
 class HelpWidget(QWidget):
     def __init__(self, chapters_dir, parent=None):
         super().__init__(parent)
         self.setWindowTitle('Help Contents')
         self.resize(1000, 700)
+
+        # Verifica se la directory esiste, altrimenti chiedi all'utente di sceglierla
+        if not os.path.exists(chapters_dir):
+            QMessageBox.warning(self, "Directory Not Found",
+                                f"The directory '{chapters_dir}' was not found. Please select a valid directory.")
+            chapters_dir = self.select_chapters_directory()
+            if not chapters_dir:
+                QMessageBox.critical(self, "No Directory Selected", "No valid directory was selected. Exiting.")
+                sys.exit()
+
         self.chapters_dir = chapters_dir
 
         # Layout generale
@@ -106,6 +62,17 @@ class HelpWidget(QWidget):
 
         # Caricare direttamente il capitolo due
         self.load_chapter_by_name("chapter2.md")
+
+    def select_chapters_directory(self):
+        """
+        Mostra una finestra di dialogo per selezionare la directory dei capitoli.
+        """
+        dialog = QFileDialog(self)
+        dialog.setFileMode(QFileDialog.FileMode.Directory)
+        dialog.setWindowTitle("Select Chapters Directory")
+        if dialog.exec():
+            return dialog.selectedFiles()[0]
+        return None
 
     def load_chapters_list(self):
         """
@@ -145,6 +112,7 @@ class HelpWidget(QWidget):
             html_content = "<h1>Unsupported file format.</h1>"
 
         self.webView.setHtml(html_content)
+
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)

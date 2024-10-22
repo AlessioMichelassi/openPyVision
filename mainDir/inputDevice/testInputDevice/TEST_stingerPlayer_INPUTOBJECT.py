@@ -6,7 +6,7 @@ from PyQt6.QtWidgets import *
 from PyQt6.QtCore import *
 from PyQt6.QtGui import *
 
-from mainDir.inputDevice.systemWidget.inputDevice_stingerPlayer import InputDevice_StingerAnimation
+from mainDir.inputDevice.systemWidget.inputDevice_stingerPlayer import InputDevice_StingerPlayer_mb
 
 
 class TestStingerApp(QWidget):
@@ -14,7 +14,7 @@ class TestStingerApp(QWidget):
         super().__init__()
         self.index = 0
         # Creazione del dispositivo stinger
-        self.inputDevice = InputDevice_StingerAnimation("Stinger Animation Device")
+        self.inputDevice = InputDevice_StingerPlayer_mb("Stinger Animation Device")
 
         # Layout per i viewer
         self.layout = QVBoxLayout(self)
