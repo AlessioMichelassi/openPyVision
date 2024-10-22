@@ -1,0 +1,7 @@
+2024-10-07 15:12:55,959 - ERROR - Error in applySettings: SaltAndPepperConfigDialog.applySettings() takes 1 positional argument but 2 were given
+2024-10-07 15:12:55,961 - ERROR - Traceback (most recent call last):
+  File "C:\pythonCode\project\openPyVision\openPyVisionBook\openPyVision\mainDir\errorClass\loggerClass.py", line 21, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+TypeError: SaltAndPepperConfigDialog.applySettings() takes 1 positional argument but 2 were given
+

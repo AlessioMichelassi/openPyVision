@@ -1,0 +1,15 @@
+Log file created.
+2024-10-21 08:08:47,105 - INFO - Executing __init__ with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x000001A788025950>,), kwargs={}
+2024-10-21 08:08:47,106 - INFO - __init__ completed successfully.
+2024-10-21 08:08:47,334 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x000001A788025950>,), kwargs={}
+2024-10-21 08:08:47,334 - INFO - paintGL completed successfully.
+2024-10-21 08:08:47,347 - ERROR - Error in getFrame: list index out of range
+2024-10-21 08:08:47,354 - ERROR - Traceback (most recent call last):
+  File "C:\pythonCode\project\openPyVision\openPyVisionBook\openPyVision\mainDir\errorClass\loggerClass.py", line 25, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\project\openPyVision\openPyVisionBook\openPyVision\mainDir\inputDevice\systemWidget\inputObject\inputObject_StingerPlayer.py", line 124, in getFrame
+    invAFrame = self.stingerInvAlphaImages[0]
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+

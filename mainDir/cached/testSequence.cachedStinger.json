@@ -1,0 +1,6 @@
+{
+    "isCached": true,
+    "stingerFolder": "C:/pythonCode/project/openPyVision/openPyVisionBook/openPyVision/mainDir/imgs/testSequence",
+    "premultiplyDirectory": "C:/pythonCode/project/openPyVision/openPyVisionBook/openPyVision/mainDir/cached\\testSequence_premultiply",
+    "invAlphaDirectory": "C:/pythonCode/project/openPyVision/openPyVisionBook/openPyVision/mainDir/cached\\testSequence_invAlpha"
+}

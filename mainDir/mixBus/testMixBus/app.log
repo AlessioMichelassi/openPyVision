@@ -1,0 +1,2138 @@
+Log file created.
+2024-10-22 09:03:58,516 - INFO - Executing __init__ with args=(<videoHubData018.VideoHubData018 object at 0x000002323643B250>,), kwargs={}
+2024-10-22 09:03:58,516 - INFO - Thread creato per InputDevice_Black_0 (BlackGenerator) alla posizione Black_0.
+2024-10-22 09:03:58,517 - INFO - Thread avviato per InputDevice_Black_0 (BlackGenerator)
+2024-10-22 09:03:58,517 - INFO - Executing addInputDevice with args=(<videoHubData018.VideoHubData018 object at 0x000002323643B250>, 0, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x000002323643B430>), kwargs={}
+2024-10-22 09:03:58,517 - INFO - VIDEOHUBDATA - Adding new input device at position 0
+2024-10-22 09:03:58,517 - INFO - addInputDevice completed successfully.
+2024-10-22 09:03:58,517 - INFO - Thread creato per InputDevice_Black_1 (BlackGenerator) alla posizione Black_1.
+2024-10-22 09:03:58,517 - INFO - Thread avviato per InputDevice_Black_1 (BlackGenerator)
+2024-10-22 09:03:58,517 - INFO - Executing addInputDevice with args=(<videoHubData018.VideoHubData018 object at 0x000002323643B250>, 1, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x000002323643B2F0>), kwargs={}
+2024-10-22 09:03:58,517 - INFO - VIDEOHUBDATA - Adding new input device at position 1
+2024-10-22 09:03:58,517 - INFO - addInputDevice completed successfully.
+2024-10-22 09:03:58,517 - INFO - Thread creato per InputDevice_Black_2 (BlackGenerator) alla posizione Black_2.
+2024-10-22 09:03:58,517 - INFO - Thread avviato per InputDevice_Black_2 (BlackGenerator)
+2024-10-22 09:03:58,517 - INFO - Executing addInputDevice with args=(<videoHubData018.VideoHubData018 object at 0x000002323643B250>, 2, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x000002323643B610>), kwargs={}
+2024-10-22 09:03:58,517 - INFO - VIDEOHUBDATA - Adding new input device at position 2
+2024-10-22 09:03:58,517 - INFO - addInputDevice completed successfully.
+2024-10-22 09:03:58,517 - INFO - Thread creato per InputDevice_Black_3 (BlackGenerator) alla posizione Black_3.
+2024-10-22 09:03:58,517 - INFO - Thread avviato per InputDevice_Black_3 (BlackGenerator)
+2024-10-22 09:03:58,517 - INFO - Executing addInputDevice with args=(<videoHubData018.VideoHubData018 object at 0x000002323643B250>, 3, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x000002323643B7F0>), kwargs={}
+2024-10-22 09:03:58,517 - INFO - VIDEOHUBDATA - Adding new input device at position 3
+2024-10-22 09:03:58,517 - INFO - addInputDevice completed successfully.
+2024-10-22 09:03:58,517 - INFO - Thread creato per InputDevice_Black_4 (BlackGenerator) alla posizione Black_4.
+2024-10-22 09:03:58,517 - INFO - Thread avviato per InputDevice_Black_4 (BlackGenerator)
+2024-10-22 09:03:58,517 - INFO - Executing addInputDevice with args=(<videoHubData018.VideoHubData018 object at 0x000002323643B250>, 4, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x000002323643B9D0>), kwargs={}
+2024-10-22 09:03:58,517 - INFO - VIDEOHUBDATA - Adding new input device at position 4
+2024-10-22 09:03:58,517 - INFO - addInputDevice completed successfully.
+2024-10-22 09:03:58,517 - INFO - Thread creato per InputDevice_Black_5 (BlackGenerator) alla posizione Black_5.
+2024-10-22 09:03:58,518 - INFO - Thread avviato per InputDevice_Black_5 (BlackGenerator)
+2024-10-22 09:03:58,518 - INFO - Executing addInputDevice with args=(<videoHubData018.VideoHubData018 object at 0x000002323643B250>, 5, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x000002323643BBB0>), kwargs={}
+2024-10-22 09:03:58,518 - INFO - VIDEOHUBDATA - Adding new input device at position 5
+2024-10-22 09:03:58,518 - INFO - addInputDevice completed successfully.
+2024-10-22 09:03:58,518 - INFO - Thread creato per InputDevice_Black_6 (BlackGenerator) alla posizione Black_6.
+2024-10-22 09:03:58,518 - INFO - Thread avviato per InputDevice_Black_6 (BlackGenerator)
+2024-10-22 09:03:58,518 - INFO - Executing addInputDevice with args=(<videoHubData018.VideoHubData018 object at 0x000002323643B250>, 6, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x000002323643BD90>), kwargs={}
+2024-10-22 09:03:58,518 - INFO - VIDEOHUBDATA - Adding new input device at position 6
+2024-10-22 09:03:58,518 - INFO - addInputDevice completed successfully.
+2024-10-22 09:03:58,518 - INFO - Thread creato per InputDevice_Black_7 (BlackGenerator) alla posizione Black_7.
+2024-10-22 09:03:58,518 - INFO - Thread avviato per InputDevice_Black_7 (BlackGenerator)
+2024-10-22 09:03:58,518 - INFO - Executing addInputDevice with args=(<videoHubData018.VideoHubData018 object at 0x000002323643B250>, 7, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x0000023236F28190>), kwargs={}
+2024-10-22 09:03:58,518 - INFO - VIDEOHUBDATA - Adding new input device at position 7
+2024-10-22 09:03:58,518 - INFO - addInputDevice completed successfully.
+2024-10-22 09:03:58,518 - INFO - Thread creato per InputDevice_Black_8 (BlackGenerator) alla posizione Black_8.
+2024-10-22 09:03:58,518 - INFO - Thread avviato per InputDevice_Black_8 (BlackGenerator)
+2024-10-22 09:03:58,518 - INFO - Executing addInputDevice with args=(<videoHubData018.VideoHubData018 object at 0x000002323643B250>, 8, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x0000023236F28370>), kwargs={}
+2024-10-22 09:03:58,518 - INFO - VIDEOHUBDATA - Adding new input device at position 8
+2024-10-22 09:03:58,518 - INFO - addInputDevice completed successfully.
+2024-10-22 09:03:58,519 - INFO - Thread creato per InputDevice_Black_Stinger_0 (BlackGenerator) alla posizione Black_Stinger_0.
+2024-10-22 09:03:58,519 - INFO - Thread avviato per InputDevice_Black_Stinger_0 (BlackGenerator)
+2024-10-22 09:03:58,519 - INFO - Executing addStingerPlayer with args=(<videoHubData018.VideoHubData018 object at 0x000002323643B250>, 0, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x0000023236F28550>), kwargs={}
+2024-10-22 09:03:58,519 - INFO - VIDEOHUBDATA - Adding new stinger device at position 0
+2024-10-22 09:03:58,519 - INFO - Stinger added at position 0.
+2024-10-22 09:03:58,519 - INFO - addStingerPlayer completed successfully.
+2024-10-22 09:03:58,519 - INFO - Thread creato per InputDevice_Black_StillImage_0 (BlackGenerator) alla posizione Black_StillImage_0.
+2024-10-22 09:03:58,519 - INFO - Thread avviato per InputDevice_Black_StillImage_0 (BlackGenerator)
+2024-10-22 09:03:58,519 - INFO - VIDEOHUBDATA - Adding new input device at position 0
+2024-10-22 09:03:58,519 - INFO - Still image added at position 0.
+2024-10-22 09:03:58,519 - INFO - Thread creato per InputDevice_Black_StillImage_1 (BlackGenerator) alla posizione Black_StillImage_1.
+2024-10-22 09:03:58,519 - INFO - Thread avviato per InputDevice_Black_StillImage_1 (BlackGenerator)
+2024-10-22 09:03:58,519 - INFO - VIDEOHUBDATA - Adding new input device at position 1
+2024-10-22 09:03:58,519 - INFO - Still image added at position 1.
+2024-10-22 09:03:58,519 - INFO - Thread creato per InputDevice_Black_StillImage_2 (BlackGenerator) alla posizione Black_StillImage_2.
+2024-10-22 09:03:58,519 - INFO - Thread avviato per InputDevice_Black_StillImage_2 (BlackGenerator)
+2024-10-22 09:03:58,519 - INFO - VIDEOHUBDATA - Adding new input device at position 2
+2024-10-22 09:03:58,519 - INFO - Still image added at position 2.
+2024-10-22 09:03:58,519 - INFO - Thread creato per InputDevice_Black_StillImage_3 (BlackGenerator) alla posizione Black_StillImage_3.
+2024-10-22 09:03:58,519 - INFO - Thread avviato per InputDevice_Black_StillImage_3 (BlackGenerator)
+2024-10-22 09:03:58,519 - INFO - VIDEOHUBDATA - Adding new input device at position 3
+2024-10-22 09:03:58,519 - INFO - Still image added at position 3.
+2024-10-22 09:03:58,519 - INFO - __init__ completed successfully.
+2024-10-22 09:03:58,520 - INFO - Executing __init__ with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>,), kwargs={}
+2024-10-22 09:03:58,520 - INFO - __init__ completed successfully.
+2024-10-22 09:03:58,520 - INFO - Executing __init__ with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>,), kwargs={}
+2024-10-22 09:03:58,520 - INFO - __init__ completed successfully.
+2024-10-22 09:03:58,869 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>,), kwargs={}
+2024-10-22 09:03:58,869 - INFO - paintGL completed successfully.
+2024-10-22 09:03:58,886 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>,), kwargs={}
+2024-10-22 09:03:58,886 - INFO - paintGL completed successfully.
+2024-10-22 09:03:58,918 - INFO - Thread creato per InputDevice_Color Generator (ColorGenerator) alla posizione Color Generator.
+2024-10-22 09:03:58,918 - INFO - Executing addInputDevice with args=(<videoHubData018.VideoHubData018 object at 0x000002323643B250>, 1, <mainDir.inputDevice.generatorDevice.inputDevice_colorGenerator.InputDevice_ColorGenerator object at 0x0000023236FBCB90>), kwargs={}
+2024-10-22 09:03:58,918 - INFO - VIDEOHUBDATA - Adding new input device at position 1
+2024-10-22 09:03:58,918 - INFO - addInputDevice completed successfully.
+2024-10-22 09:03:58,919 - INFO - Thread creato per InputDevice_Noise Generator (RandomNoiseGenerator) alla posizione Noise Generator.
+2024-10-22 09:03:58,919 - INFO - Executing addInputDevice with args=(<videoHubData018.VideoHubData018 object at 0x000002323643B250>, 2, <mainDir.inputDevice.generatorDevice.inputDevice_noiseGenerator.InputDevice_NoiseGenerator object at 0x0000023236FBEAD0>), kwargs={}
+2024-10-22 09:03:58,919 - INFO - VIDEOHUBDATA - Adding new input device at position 2
+2024-10-22 09:03:58,919 - INFO - addInputDevice completed successfully.
+2024-10-22 09:03:58,922 - INFO - Thread avviato per InputDevice_Color Generator (ColorGenerator)
+2024-10-22 09:03:58,922 - INFO - VIDEOHUBDATA -Thread started for input at position 1
+2024-10-22 09:03:58,922 - INFO - Thread avviato per InputDevice_Noise Generator (RandomNoiseGenerator)
+2024-10-22 09:03:58,922 - INFO - VIDEOHUBDATA -Thread started for input at position 2
+2024-10-22 09:03:58,923 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:58,923 - INFO - setFrame completed successfully.
+2024-10-22 09:03:58,923 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[0, 0, 0],
+        [0, 0, 0],
+        [0, 0, 0],
+        ...,
+        [0, 0, 0],
+        [0, 0, 0],
+        [0, 0, 0]],
+
+       [[0, 0, 0],
+        [0, 0, 0],
+        [0, 0, 0],
+        ...,
+        [0, 0, 0],
+        [0, 0, 0],
+        [0, 0, 0]],
+
+       [[0, 0, 0],
+        [0, 0, 0],
+        [0, 0, 0],
+        ...,
+        [0, 0, 0],
+        [0, 0, 0],
+        [0, 0, 0]],
+
+       ...,
+
+       [[0, 0, 0],
+        [0, 0, 0],
+        [0, 0, 0],
+        ...,
+        [0, 0, 0],
+        [0, 0, 0],
+        [0, 0, 0]],
+
+       [[0, 0, 0],
+        [0, 0, 0],
+        [0, 0, 0],
+        ...,
+        [0, 0, 0],
+        [0, 0, 0],
+        [0, 0, 0]],
+
+       [[0, 0, 0],
+        [0, 0, 0],
+        [0, 0, 0],
+        ...,
+        [0, 0, 0],
+        [0, 0, 0],
+        [0, 0, 0]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:58,923 - INFO - setFrame completed successfully.
+2024-10-22 09:03:58,930 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>,), kwargs={}
+2024-10-22 09:03:58,940 - INFO - paintGL completed successfully.
+2024-10-22 09:03:58,942 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>,), kwargs={}
+2024-10-22 09:03:58,956 - INFO - paintGL completed successfully.
+2024-10-22 09:03:59,000 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,005 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,008 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[152,  49, 152],
+        [225, 208,  12],
+        [ 65, 116,  41],
+        ...,
+        [ 65,  75, 240],
+        [ 25, 125,  72],
+        [223, 202, 110]],
+
+       [[169, 142, 238],
+        [ 27, 207, 163],
+        [147, 233,  83],
+        ...,
+        [113, 191, 122],
+        [ 15,  95, 225],
+        [137, 228,  10]],
+
+       [[ 74,  66, 140],
+        [216, 139, 209],
+        [ 54, 113,  36],
+        ...,
+        [253, 101,  21],
+        [163, 168,  80],
+        [207, 151, 136]],
+
+       ...,
+
+       [[144, 201,  22],
+        [ 47,  76, 221],
+        [206, 128, 241],
+        ...,
+        [226, 153, 111],
+        [131, 127, 141],
+        [ 16, 196, 153]],
+
+       [[ 89,  55, 235],
+        [161,  98,  23],
+        [135, 198,  99],
+        ...,
+        [111, 121, 183],
+        [ 80,  76, 217],
+        [236,  43, 225]],
+
+       [[235,  66, 253],
+        [163, 182, 141],
+        [105, 136, 224],
+        ...,
+        [178, 137, 114],
+        [104,   1,  55],
+        [239,  72, 112]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,012 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,018 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>,), kwargs={}
+2024-10-22 09:03:59,025 - INFO - paintGL completed successfully.
+2024-10-22 09:03:59,038 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>,), kwargs={}
+2024-10-22 09:03:59,043 - INFO - paintGL completed successfully.
+2024-10-22 09:03:59,075 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,082 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,088 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[ 91,  37, 142],
+        [225, 138,  94],
+        [172, 105,  30],
+        ...,
+        [229,  12, 213],
+        [216, 149, 172],
+        [119, 207,  91]],
+
+       [[143,  56,  53],
+        [ 85,  48,  54],
+        [151, 200,  26],
+        ...,
+        [ 81, 177, 232],
+        [ 94, 227, 226],
+        [ 25, 231,  27]],
+
+       [[105,  54, 164],
+        [136,  83, 205],
+        [219,  82, 142],
+        ...,
+        [ 48, 240,   5],
+        [ 82,  69, 114],
+        [170, 180, 127]],
+
+       ...,
+
+       [[ 13, 181, 139],
+        [ 20,  84,  23],
+        [107,  75,  42],
+        ...,
+        [150, 131, 143],
+        [228, 139,  63],
+        [160, 195, 181]],
+
+       [[ 61, 229, 123],
+        [238, 241, 194],
+        [166,  10,  13],
+        ...,
+        [198, 228,  48],
+        [130, 151,  40],
+        [241,  63, 117]],
+
+       [[210, 146,  90],
+        [243, 112, 105],
+        [192, 192, 104],
+        ...,
+        [  9,  14, 150],
+        [ 77, 121,   6],
+        [226,  20, 249]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,093 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,113 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,117 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,132 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[ 16,  36,  55],
+        [154,   4, 135],
+        [111, 253, 194],
+        ...,
+        [ 87, 194, 230],
+        [195, 154,  80],
+        [152,  79, 185]],
+
+       [[108, 244,  17],
+        [170, 149,  58],
+        [ 25,  65,  99],
+        ...,
+        [214,  15,  79],
+        [185, 101, 155],
+        [ 10,   0, 100]],
+
+       [[126, 176, 128],
+        [212,  85, 188],
+        [177, 134, 203],
+        ...,
+        [194,  65,  76],
+        [124, 128, 210],
+        [  0,  71, 105]],
+
+       ...,
+
+       [[ 49, 214, 251],
+        [ 99, 221, 186],
+        [ 50, 164, 137],
+        ...,
+        [ 18, 237, 205],
+        [160,  58,   4],
+        [211, 122,  93]],
+
+       [[199,  28,   2],
+        [ 93,  29, 183],
+        [ 73,  43, 251],
+        ...,
+        [230, 241, 124],
+        [195, 151, 106],
+        [148,  65,  23]],
+
+       [[ 85, 139,  19],
+        [218,  87,  81],
+        [ 48,  28, 247],
+        ...,
+        [ 23, 103,  54],
+        [115, 207,  57],
+        [164, 205, 123]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,139 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,429 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>,), kwargs={}
+2024-10-22 09:03:59,455 - INFO - paintGL completed successfully.
+2024-10-22 09:03:59,477 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>,), kwargs={}
+2024-10-22 09:03:59,490 - INFO - paintGL completed successfully.
+2024-10-22 09:03:59,536 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,541 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,542 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[ 35, 206, 189],
+        [252,  46,  28],
+        [218, 231, 109],
+        ...,
+        [165, 129,  60],
+        [109,  21, 147],
+        [226, 235,  88]],
+
+       [[219, 182,  66],
+        [103,  42,  61],
+        [165, 228, 225],
+        ...,
+        [184, 193, 178],
+        [ 22,  86, 230],
+        [221,  13, 143]],
+
+       [[172,  58, 128],
+        [180, 212, 228],
+        [137,  13,  96],
+        ...,
+        [ 93, 185, 120],
+        [143, 179, 157],
+        [ 52,  14, 211]],
+
+       ...,
+
+       [[194,  19, 247],
+        [187,   8, 101],
+        [ 52, 138, 207],
+        ...,
+        [  8, 231, 217],
+        [135, 218,  11],
+        [117, 208, 131]],
+
+       [[199,  20, 165],
+        [244,  34, 207],
+        [119, 107,  45],
+        ...,
+        [184, 138, 177],
+        [137, 216,  71],
+        [156,  18, 144]],
+
+       [[ 20, 124, 157],
+        [218,  24, 196],
+        [189,  41,  78],
+        ...,
+        [ 73,  96,  20],
+        [ 38, 169,  79],
+        [ 62,  88,  61]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,542 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,591 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,596 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,606 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[114,  64, 149],
+        [177,  61,  51],
+        [ 50, 129, 141],
+        ...,
+        [238, 108,  21],
+        [218, 249, 229],
+        [ 46, 247,  67]],
+
+       [[ 54, 191,  72],
+        [214,  12,  79],
+        [124,  45, 108],
+        ...,
+        [ 30, 215, 126],
+        [121, 248, 212],
+        [138, 189,  84]],
+
+       [[ 91, 143,  59],
+        [ 72, 122,   6],
+        [ 94, 155, 192],
+        ...,
+        [220, 241, 236],
+        [126,  92, 150],
+        [ 89,  36,  17]],
+
+       ...,
+
+       [[249,  69, 111],
+        [206,  21, 102],
+        [ 46,  53, 113],
+        ...,
+        [232,  30,  73],
+        [ 79, 248, 218],
+        [203, 206, 133]],
+
+       [[220,  71,  64],
+        [ 70, 167, 110],
+        [238, 145, 144],
+        ...,
+        [117,  89, 152],
+        [119,  83, 158],
+        [185,  24,  43]],
+
+       [[ 78, 192, 135],
+        [ 89,  35,  42],
+        [182,  47, 232],
+        ...,
+        [143, 109, 108],
+        [ 57, 126,   9],
+        [230, 106, 187]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,606 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,673 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>,), kwargs={}
+2024-10-22 09:03:59,690 - INFO - paintGL completed successfully.
+2024-10-22 09:03:59,723 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>,), kwargs={}
+2024-10-22 09:03:59,725 - INFO - paintGL completed successfully.
+2024-10-22 09:03:59,751 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,761 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,772 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[168,  25,  21],
+        [208,  80,   7],
+        [249,  41,  98],
+        ...,
+        [ 84, 105, 178],
+        [151,  18,  53],
+        [250, 170,  93]],
+
+       [[253,  70,  67],
+        [216,   5,  20],
+        [ 13, 165, 218],
+        ...,
+        [ 90, 239, 240],
+        [138,  43, 173],
+        [171, 203, 137]],
+
+       [[ 81, 229,  33],
+        [233,  86, 140],
+        [ 63,  40, 139],
+        ...,
+        [101, 194,  87],
+        [ 21, 158, 126],
+        [ 24, 203, 202]],
+
+       ...,
+
+       [[ 90, 236, 231],
+        [199, 201,  73],
+        [165, 133, 109],
+        ...,
+        [220, 109,  74],
+        [ 98, 110, 127],
+        [ 12, 165, 199]],
+
+       [[139,  42, 221],
+        [142, 165, 181],
+        [166, 134,  51],
+        ...,
+        [121,   2, 180],
+        [ 54, 107, 170],
+        [115, 116,  75]],
+
+       [[237,  76, 194],
+        [ 27, 177,  46],
+        [246, 112, 158],
+        ...,
+        [135, 134,  16],
+        [206,   6, 147],
+        [110,  69, 192]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,772 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,783 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,795 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,801 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[114,  64, 149],
+        [177,  61,  51],
+        [ 50, 129, 141],
+        ...,
+        [238, 108,  21],
+        [218, 249, 229],
+        [ 46, 247,  67]],
+
+       [[ 54, 191,  72],
+        [214,  12,  79],
+        [124,  45, 108],
+        ...,
+        [ 30, 215, 126],
+        [121, 248, 212],
+        [138, 189,  84]],
+
+       [[ 91, 143,  59],
+        [ 72, 122,   6],
+        [ 94, 155, 192],
+        ...,
+        [220, 241, 236],
+        [126,  92, 150],
+        [ 89,  36,  17]],
+
+       ...,
+
+       [[249,  69, 111],
+        [206,  21, 102],
+        [ 46,  53, 113],
+        ...,
+        [232,  30,  73],
+        [ 79, 248, 218],
+        [203, 206, 133]],
+
+       [[220,  71,  64],
+        [ 70, 167, 110],
+        [238, 145, 144],
+        ...,
+        [117,  89, 152],
+        [119,  83, 158],
+        [185,  24,  43]],
+
+       [[ 78, 192, 135],
+        [ 89,  35,  42],
+        [182,  47, 232],
+        ...,
+        [143, 109, 108],
+        [ 57, 126,   9],
+        [230, 106, 187]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,805 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,815 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>,), kwargs={}
+2024-10-22 09:03:59,822 - INFO - paintGL completed successfully.
+2024-10-22 09:03:59,849 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>,), kwargs={}
+2024-10-22 09:03:59,857 - INFO - paintGL completed successfully.
+2024-10-22 09:03:59,885 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,886 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,886 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[224, 192,  53],
+        [ 38, 225,  91],
+        [216,   4,  70],
+        ...,
+        [ 94,  95,  10],
+        [211, 231, 225],
+        [ 29,  44,  61]],
+
+       [[ 82, 133, 241],
+        [ 69,  65, 242],
+        [  8,  51,  82],
+        ...,
+        [ 90, 187, 201],
+        [  0, 206,  55],
+        [128,  84,  28]],
+
+       [[239,  13,  45],
+        [ 78, 216,  15],
+        [100,  86,  78],
+        ...,
+        [150, 231, 174],
+        [ 60,  98,   6],
+        [ 99,  37,  29]],
+
+       ...,
+
+       [[219,  54, 124],
+        [157, 247, 118],
+        [197,  76, 105],
+        ...,
+        [ 39, 199,  84],
+        [ 31, 205, 145],
+        [175,  57,  79]],
+
+       [[118,   9, 115],
+        [ 73, 217, 239],
+        [155, 156, 145],
+        ...,
+        [216, 130,  73],
+        [ 32, 219, 119],
+        [ 92, 238, 116]],
+
+       [[ 52,  82, 213],
+        [142,  60, 116],
+        [191, 235, 164],
+        ...,
+        [140,  58, 133],
+        [131, 119, 157],
+        [ 71, 177,  72]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,886 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,897 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>,), kwargs={}
+2024-10-22 09:03:59,910 - INFO - paintGL completed successfully.
+2024-10-22 09:03:59,920 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>,), kwargs={}
+2024-10-22 09:03:59,923 - INFO - paintGL completed successfully.
+2024-10-22 09:03:59,942 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,963 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,964 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[148,  75,  89],
+        [130,  27, 168],
+        [246,  53,  68],
+        ...,
+        [ 55,  67,  13],
+        [  0,   4,  52],
+        [250,  56, 219]],
+
+       [[234, 125, 173],
+        [ 47, 136, 215],
+        [174, 134, 204],
+        ...,
+        [245, 237,   2],
+        [153, 202,  83],
+        [137, 158, 176]],
+
+       [[ 54, 150,  33],
+        [175, 235,  78],
+        [ 24, 224, 194],
+        ...,
+        [116, 222,  25],
+        [ 85,  86, 177],
+        [176,  52, 163]],
+
+       ...,
+
+       [[  4, 135,  64],
+        [190, 178, 151],
+        [235,  95, 173],
+        ...,
+        [193, 222, 135],
+        [ 37,  57, 254],
+        [139, 178, 210]],
+
+       [[183, 162, 247],
+        [  4, 223,  47],
+        [164, 102,  83],
+        ...,
+        [ 38, 179,  55],
+        [192, 165, 149],
+        [236,   9,  33]],
+
+       [[ 84, 179, 118],
+        [ 40, 249, 232],
+        [  2, 250, 143],
+        ...,
+        [127, 187, 200],
+        [ 39, 137,  33],
+        [172, 234, 252]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,964 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,984 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:03:59,988 - INFO - setFrame completed successfully.
+2024-10-22 09:03:59,994 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[148, 113,   9],
+        [ 16, 152, 125],
+        [199, 139, 167],
+        ...,
+        [190, 126, 113],
+        [167,  26, 204],
+        [233,  91,  83]],
+
+       [[212,  87,  38],
+        [150, 116, 105],
+        [248,  72, 183],
+        ...,
+        [ 14, 234, 166],
+        [149, 202, 223],
+        [167, 254, 160]],
+
+       [[ 78, 139, 125],
+        [178, 118, 137],
+        [ 65,   1,  84],
+        ...,
+        [ 34,  12, 134],
+        [113, 165,  95],
+        [ 83, 125,  97]],
+
+       ...,
+
+       [[ 85, 135, 108],
+        [ 21, 241, 101],
+        [230, 202,  76],
+        ...,
+        [136, 127,  89],
+        [ 79,   4,  64],
+        [ 88, 154, 172]],
+
+       [[ 74, 126, 105],
+        [ 17,  42,  22],
+        [ 80, 242, 212],
+        ...,
+        [156, 130,  38],
+        [130, 203, 250],
+        [184,  75,  15]],
+
+       [[188, 220,  14],
+        [121, 198, 111],
+        [229, 219,  77],
+        ...,
+        [ 18,  64,  73],
+        [ 58, 153,   5],
+        [210,  84, 162]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,017 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,071 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>,), kwargs={}
+2024-10-22 09:04:00,086 - INFO - paintGL completed successfully.
+2024-10-22 09:04:00,108 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>,), kwargs={}
+2024-10-22 09:04:00,124 - INFO - paintGL completed successfully.
+2024-10-22 09:04:00,167 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,200 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,205 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[122, 130,  31],
+        [158,  95, 119],
+        [ 36, 159, 209],
+        ...,
+        [144,  40,  64],
+        [131,   2,   6],
+        [128,  73,  38]],
+
+       [[111, 186, 239],
+        [ 35,  33, 247],
+        [  5,  67,   8],
+        ...,
+        [119, 236,  66],
+        [ 40,  10,  52],
+        [122,  20, 132]],
+
+       [[129, 196, 249],
+        [ 39, 108,  93],
+        [244,  45, 179],
+        ...,
+        [ 35, 176, 201],
+        [233, 212,  95],
+        [171, 118, 166]],
+
+       ...,
+
+       [[  6, 115, 197],
+        [162, 108, 253],
+        [188, 100,  61],
+        ...,
+        [147, 157, 125],
+        [206,  38, 160],
+        [165,  85, 237]],
+
+       [[ 25,  75, 224],
+        [213, 227,  81],
+        [ 23,  83, 231],
+        ...,
+        [112, 230,  71],
+        [ 75,  82,  97],
+        [106, 210, 149]],
+
+       [[160, 114,  36],
+        [222, 119, 150],
+        [177, 145,  40],
+        ...,
+        [ 51,  92,  51],
+        [143, 160,  70],
+        [ 49, 146, 165]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,217 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,228 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,228 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,233 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[ 23, 204,  87],
+        [ 18,  24, 108],
+        [127,  16, 103],
+        ...,
+        [185,  16, 246],
+        [116, 103, 189],
+        [117, 172,  23]],
+
+       [[209, 198,  32],
+        [ 36,  16, 230],
+        [ 85, 172,  26],
+        ...,
+        [ 56,  93, 221],
+        [ 16,  68,  22],
+        [154, 143,  44]],
+
+       [[188, 123,  60],
+        [ 46, 203, 187],
+        [248, 158, 233],
+        ...,
+        [ 79, 206, 218],
+        [143,  92, 242],
+        [247, 213, 181]],
+
+       ...,
+
+       [[114, 212,  38],
+        [128,   7,  58],
+        [ 51, 174, 200],
+        ...,
+        [232,  29, 146],
+        [ 44, 226, 185],
+        [125, 139, 191]],
+
+       [[ 79, 214,   4],
+        [ 61, 170, 172],
+        [147, 246,  24],
+        ...,
+        [121,  95,  34],
+        [139, 148, 153],
+        [154, 133, 242]],
+
+       [[222,  63,  65],
+        [ 92, 190, 150],
+        [181,  31, 180],
+        ...,
+        [ 23,   1,  55],
+        [ 53, 206, 210],
+        [104, 246,  95]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,237 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,246 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>,), kwargs={}
+2024-10-22 09:04:00,280 - INFO - paintGL completed successfully.
+2024-10-22 09:04:00,306 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>,), kwargs={}
+2024-10-22 09:04:00,327 - INFO - paintGL completed successfully.
+2024-10-22 09:04:00,396 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,397 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,397 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[ 14,  66, 242],
+        [ 86,  12, 111],
+        [184, 108, 190],
+        ...,
+        [ 82, 205,  72],
+        [162, 177, 246],
+        [175, 247, 114]],
+
+       [[101,  23, 172],
+        [207, 236,  53],
+        [112,  73,  34],
+        ...,
+        [126,  70, 187],
+        [135,   9, 156],
+        [188, 117, 209]],
+
+       [[ 16,  69, 193],
+        [239,  71, 207],
+        [182, 153, 188],
+        ...,
+        [ 52, 138,  93],
+        [240, 199, 176],
+        [157, 145, 112]],
+
+       ...,
+
+       [[157,  26,  32],
+        [222,  12, 129],
+        [231, 110, 127],
+        ...,
+        [209, 172, 234],
+        [205,  21,  48],
+        [ 35,  27, 166]],
+
+       [[247,   4,  31],
+        [110,  10, 174],
+        [226,  15, 233],
+        ...,
+        [134, 208, 111],
+        [168, 215,   3],
+        [170, 149, 211]],
+
+       [[149, 219,  13],
+        [179, 240,  95],
+        [119,  18,  22],
+        ...,
+        [186,  98, 167],
+        [168,  95,  84],
+        [ 18, 160,  54]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,431 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,513 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,515 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,518 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[251, 181, 191],
+        [252, 142, 129],
+        [252, 228, 130],
+        ...,
+        [162, 172, 210],
+        [ 41,  60,  90],
+        [ 79, 217, 246]],
+
+       [[201, 159, 229],
+        [135,   5,  48],
+        [163, 191, 141],
+        ...,
+        [ 36, 201,  14],
+        [ 80,  91, 216],
+        [244,  98,  73]],
+
+       [[ 33, 252,  30],
+        [103, 128, 249],
+        [168, 182, 126],
+        ...,
+        [130, 189,  62],
+        [162,  34, 194],
+        [172, 163, 232]],
+
+       ...,
+
+       [[113, 249,  97],
+        [  5, 140, 184],
+        [ 58, 106,  85],
+        ...,
+        [180,   3, 126],
+        [ 24,  80,  73],
+        [228, 183,  80]],
+
+       [[241, 151,   5],
+        [ 90, 142, 167],
+        [209, 238, 251],
+        ...,
+        [242, 216,  10],
+        [ 85, 113, 115],
+        [  7, 137,  98]],
+
+       [[103, 124, 229],
+        [ 94,  10, 140],
+        [247,  69, 130],
+        ...,
+        [193, 136, 145],
+        [ 94, 171, 198],
+        [ 24,  46,  63]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,519 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,541 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>,), kwargs={}
+2024-10-22 09:04:00,545 - INFO - paintGL completed successfully.
+2024-10-22 09:04:00,550 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>,), kwargs={}
+2024-10-22 09:04:00,560 - INFO - paintGL completed successfully.
+2024-10-22 09:04:00,571 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,571 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,572 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[ 64, 236, 250],
+        [108,  11,   8],
+        [213,  64,  74],
+        ...,
+        [176,  12,  66],
+        [178,  33, 103],
+        [238, 187,  83]],
+
+       [[253, 140, 174],
+        [ 44, 100,  44],
+        [125, 204,  41],
+        ...,
+        [105,  56,  93],
+        [ 71,  11, 247],
+        [166, 154,  43]],
+
+       [[ 65,  19, 162],
+        [222,  71,  85],
+        [220, 212, 244],
+        ...,
+        [ 50, 155, 115],
+        [203,  40,  85],
+        [ 80,   4, 217]],
+
+       ...,
+
+       [[234, 150, 166],
+        [  6, 151, 152],
+        [161, 205,  57],
+        ...,
+        [140, 142, 117],
+        [178, 224, 160],
+        [ 35, 203,  63]],
+
+       [[ 50, 121,  54],
+        [147,  51, 216],
+        [ 38, 208,  71],
+        ...,
+        [115,  54, 194],
+        [116,   1, 124],
+        [ 82,  87, 122]],
+
+       [[ 85, 138, 224],
+        [205,  99, 241],
+        [133,  71, 252],
+        ...,
+        [117,  27,  70],
+        [233, 230, 160],
+        [146,   1, 208]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,572 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,574 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>,), kwargs={}
+2024-10-22 09:04:00,578 - INFO - paintGL completed successfully.
+2024-10-22 09:04:00,579 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>,), kwargs={}
+2024-10-22 09:04:00,582 - INFO - paintGL completed successfully.
+2024-10-22 09:04:00,603 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,603 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,604 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[ 64, 236, 250],
+        [108,  11,   8],
+        [213,  64,  74],
+        ...,
+        [176,  12,  66],
+        [178,  33, 103],
+        [238, 187,  83]],
+
+       [[253, 140, 174],
+        [ 44, 100,  44],
+        [125, 204,  41],
+        ...,
+        [105,  56,  93],
+        [ 71,  11, 247],
+        [166, 154,  43]],
+
+       [[ 65,  19, 162],
+        [222,  71,  85],
+        [220, 212, 244],
+        ...,
+        [ 50, 155, 115],
+        [203,  40,  85],
+        [ 80,   4, 217]],
+
+       ...,
+
+       [[234, 150, 166],
+        [  6, 151, 152],
+        [161, 205,  57],
+        ...,
+        [140, 142, 117],
+        [178, 224, 160],
+        [ 35, 203,  63]],
+
+       [[ 50, 121,  54],
+        [147,  51, 216],
+        [ 38, 208,  71],
+        ...,
+        [115,  54, 194],
+        [116,   1, 124],
+        [ 82,  87, 122]],
+
+       [[ 85, 138, 224],
+        [205,  99, 241],
+        [133,  71, 252],
+        ...,
+        [117,  27,  70],
+        [233, 230, 160],
+        [146,   1, 208]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,604 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,606 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>,), kwargs={}
+2024-10-22 09:04:00,611 - INFO - paintGL completed successfully.
+2024-10-22 09:04:00,632 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>,), kwargs={}
+2024-10-22 09:04:00,636 - INFO - paintGL completed successfully.
+2024-10-22 09:04:00,683 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,683 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,687 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[146, 114, 213],
+        [192, 221, 133],
+        [253,  13, 185],
+        ...,
+        [191, 241, 215],
+        [192,  71,  63],
+        [129,  96,   7]],
+
+       [[ 42,   5, 142],
+        [179, 102, 149],
+        [ 95, 223, 124],
+        ...,
+        [ 56,  32,  95],
+        [170,  39, 187],
+        [ 53, 210, 128]],
+
+       [[ 21, 192,  76],
+        [219,  88,  84],
+        [214,  50, 190],
+        ...,
+        [179, 252,  35],
+        [ 95, 147, 200],
+        [ 49, 130,  38]],
+
+       ...,
+
+       [[ 88, 230, 252],
+        [ 99, 117, 122],
+        [ 72, 214, 147],
+        ...,
+        [248,  81, 225],
+        [ 34,  64,  58],
+        [ 85,  65,  96]],
+
+       [[ 83, 134, 132],
+        [200,  22,  64],
+        [137,  33, 154],
+        ...,
+        [  9,  45, 237],
+        [187, 207,  60],
+        [225,  80, 153]],
+
+       [[ 46, 118, 218],
+        [ 78,  68, 116],
+        [168,  17, 203],
+        ...,
+        [224,  22, 250],
+        [154, 142, 226],
+        [  5, 194, 173]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,687 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,690 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,691 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,691 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[146, 114, 213],
+        [192, 221, 133],
+        [253,  13, 185],
+        ...,
+        [191, 241, 215],
+        [192,  71,  63],
+        [129,  96,   7]],
+
+       [[ 42,   5, 142],
+        [179, 102, 149],
+        [ 95, 223, 124],
+        ...,
+        [ 56,  32,  95],
+        [170,  39, 187],
+        [ 53, 210, 128]],
+
+       [[ 21, 192,  76],
+        [219,  88,  84],
+        [214,  50, 190],
+        ...,
+        [179, 252,  35],
+        [ 95, 147, 200],
+        [ 49, 130,  38]],
+
+       ...,
+
+       [[ 88, 230, 252],
+        [ 99, 117, 122],
+        [ 72, 214, 147],
+        ...,
+        [248,  81, 225],
+        [ 34,  64,  58],
+        [ 85,  65,  96]],
+
+       [[ 83, 134, 132],
+        [200,  22,  64],
+        [137,  33, 154],
+        ...,
+        [  9,  45, 237],
+        [187, 207,  60],
+        [225,  80, 153]],
+
+       [[ 46, 118, 218],
+        [ 78,  68, 116],
+        [168,  17, 203],
+        ...,
+        [224,  22, 250],
+        [154, 142, 226],
+        [  5, 194, 173]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,691 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,692 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>,), kwargs={}
+2024-10-22 09:04:00,694 - INFO - paintGL completed successfully.
+2024-10-22 09:04:00,695 - INFO - Executing paintGL with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>,), kwargs={}
+2024-10-22 09:04:00,696 - INFO - paintGL completed successfully.
+2024-10-22 09:04:00,700 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F291D0>, array([[[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       ...,
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]],
+
+       [[162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219],
+        ...,
+        [162,   6, 219],
+        [162,   6, 219],
+        [162,   6, 219]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,700 - INFO - setFrame completed successfully.
+2024-10-22 09:04:00,700 - INFO - Executing setFrame with args=(<mainDir.outputs.openGLViewer015.OpenGLViewer015 object at 0x0000023236F29270>, array([[[146, 114, 213],
+        [192, 221, 133],
+        [253,  13, 185],
+        ...,
+        [191, 241, 215],
+        [192,  71,  63],
+        [129,  96,   7]],
+
+       [[ 42,   5, 142],
+        [179, 102, 149],
+        [ 95, 223, 124],
+        ...,
+        [ 56,  32,  95],
+        [170,  39, 187],
+        [ 53, 210, 128]],
+
+       [[ 21, 192,  76],
+        [219,  88,  84],
+        [214,  50, 190],
+        ...,
+        [179, 252,  35],
+        [ 95, 147, 200],
+        [ 49, 130,  38]],
+
+       ...,
+
+       [[ 88, 230, 252],
+        [ 99, 117, 122],
+        [ 72, 214, 147],
+        ...,
+        [248,  81, 225],
+        [ 34,  64,  58],
+        [ 85,  65,  96]],
+
+       [[ 83, 134, 132],
+        [200,  22,  64],
+        [137,  33, 154],
+        ...,
+        [  9,  45, 237],
+        [187, 207,  60],
+        [225,  80, 153]],
+
+       [[ 46, 118, 218],
+        [ 78,  68, 116],
+        [168,  17, 203],
+        ...,
+        [224,  22, 250],
+        [154, 142, 226],
+        [  5, 194, 173]]], dtype=uint8)), kwargs={}
+2024-10-22 09:04:00,700 - INFO - setFrame completed successfully.

@@ -1,0 +1,52 @@
+Log file created.
+2024-10-21 15:17:15,387 - INFO - Executing __init__ with args=(<__main__.VideoHubData018 object at 0x0000017A64412710>,), kwargs={}
+2024-10-21 15:17:15,388 - INFO - Thread creato per InputDevice_Black_0 (BlackGenerator) alla posizione Black_0.
+2024-10-21 15:17:15,388 - INFO - Thread avviato per InputDevice_Black_0 (BlackGenerator)
+2024-10-21 15:17:15,388 - INFO - Executing addInputDevice with args=(<__main__.VideoHubData018 object at 0x0000017A64412710>, 0, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x0000017A64412CB0>), kwargs={}
+2024-10-21 15:17:15,388 - INFO - VIDEOHUBDATA - Adding new input device at position 0
+2024-10-21 15:17:15,388 - INFO - addInputDevice completed successfully.
+2024-10-21 15:17:15,388 - INFO - Thread creato per InputDevice_Black_1 (BlackGenerator) alla posizione Black_1.
+2024-10-21 15:17:15,388 - INFO - Thread avviato per InputDevice_Black_1 (BlackGenerator)
+2024-10-21 15:17:15,388 - INFO - Executing addInputDevice with args=(<__main__.VideoHubData018 object at 0x0000017A64412710>, 1, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x0000017A64412D50>), kwargs={}
+2024-10-21 15:17:15,388 - INFO - VIDEOHUBDATA - Adding new input device at position 1
+2024-10-21 15:17:15,388 - INFO - addInputDevice completed successfully.
+2024-10-21 15:17:15,388 - INFO - Thread creato per InputDevice_Black_2 (BlackGenerator) alla posizione Black_2.
+2024-10-21 15:17:15,388 - INFO - Thread avviato per InputDevice_Black_2 (BlackGenerator)
+2024-10-21 15:17:15,388 - INFO - Executing addInputDevice with args=(<__main__.VideoHubData018 object at 0x0000017A64412710>, 2, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x0000017A64412FD0>), kwargs={}
+2024-10-21 15:17:15,388 - INFO - VIDEOHUBDATA - Adding new input device at position 2
+2024-10-21 15:17:15,388 - INFO - addInputDevice completed successfully.
+2024-10-21 15:17:15,388 - INFO - Thread creato per InputDevice_Black_3 (BlackGenerator) alla posizione Black_3.
+2024-10-21 15:17:15,388 - INFO - Thread avviato per InputDevice_Black_3 (BlackGenerator)
+2024-10-21 15:17:15,388 - INFO - Executing addInputDevice with args=(<__main__.VideoHubData018 object at 0x0000017A64412710>, 3, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x0000017A644131B0>), kwargs={}
+2024-10-21 15:17:15,388 - INFO - VIDEOHUBDATA - Adding new input device at position 3
+2024-10-21 15:17:15,388 - INFO - addInputDevice completed successfully.
+2024-10-21 15:17:15,389 - INFO - Thread creato per InputDevice_Black_4 (BlackGenerator) alla posizione Black_4.
+2024-10-21 15:17:15,389 - INFO - Thread avviato per InputDevice_Black_4 (BlackGenerator)
+2024-10-21 15:17:15,389 - INFO - Executing addInputDevice with args=(<__main__.VideoHubData018 object at 0x0000017A64412710>, 4, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x0000017A64413390>), kwargs={}
+2024-10-21 15:17:15,389 - INFO - VIDEOHUBDATA - Adding new input device at position 4
+2024-10-21 15:17:15,389 - INFO - addInputDevice completed successfully.
+2024-10-21 15:17:15,389 - INFO - Thread creato per InputDevice_Black_5 (BlackGenerator) alla posizione Black_5.
+2024-10-21 15:17:15,389 - INFO - Thread avviato per InputDevice_Black_5 (BlackGenerator)
+2024-10-21 15:17:15,389 - INFO - Executing addInputDevice with args=(<__main__.VideoHubData018 object at 0x0000017A64412710>, 5, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x0000017A64413570>), kwargs={}
+2024-10-21 15:17:15,389 - INFO - VIDEOHUBDATA - Adding new input device at position 5
+2024-10-21 15:17:15,389 - INFO - addInputDevice completed successfully.
+2024-10-21 15:17:15,389 - INFO - Thread creato per InputDevice_Black_6 (BlackGenerator) alla posizione Black_6.
+2024-10-21 15:17:15,389 - INFO - Thread avviato per InputDevice_Black_6 (BlackGenerator)
+2024-10-21 15:17:15,389 - INFO - Executing addInputDevice with args=(<__main__.VideoHubData018 object at 0x0000017A64412710>, 6, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x0000017A64413750>), kwargs={}
+2024-10-21 15:17:15,389 - INFO - VIDEOHUBDATA - Adding new input device at position 6
+2024-10-21 15:17:15,389 - INFO - addInputDevice completed successfully.
+2024-10-21 15:17:15,389 - INFO - Thread creato per InputDevice_Black_7 (BlackGenerator) alla posizione Black_7.
+2024-10-21 15:17:15,389 - INFO - Thread avviato per InputDevice_Black_7 (BlackGenerator)
+2024-10-21 15:17:15,389 - INFO - Executing addInputDevice with args=(<__main__.VideoHubData018 object at 0x0000017A64412710>, 7, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x0000017A64413930>), kwargs={}
+2024-10-21 15:17:15,389 - INFO - VIDEOHUBDATA - Adding new input device at position 7
+2024-10-21 15:17:15,389 - INFO - addInputDevice completed successfully.
+2024-10-21 15:17:15,389 - INFO - Thread creato per InputDevice_Black_8 (BlackGenerator) alla posizione Black_8.
+2024-10-21 15:17:15,389 - INFO - Thread avviato per InputDevice_Black_8 (BlackGenerator)
+2024-10-21 15:17:15,389 - INFO - Executing addInputDevice with args=(<__main__.VideoHubData018 object at 0x0000017A64412710>, 8, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x0000017A64413B10>), kwargs={}
+2024-10-21 15:17:15,389 - INFO - VIDEOHUBDATA - Adding new input device at position 8
+2024-10-21 15:17:15,390 - INFO - addInputDevice completed successfully.
+2024-10-21 15:17:15,390 - INFO - Thread creato per InputDevice_Black_Stinger_0 (BlackGenerator) alla posizione Black_Stinger_0.
+2024-10-21 15:17:15,390 - INFO - Thread avviato per InputDevice_Black_Stinger_0 (BlackGenerator)
+2024-10-21 15:17:15,390 - INFO - Executing addStingerPlayer with args=(<__main__.VideoHubData018 object at 0x0000017A64412710>, 0, <mainDir.inputDevice.generatorDevice.inputDevice_blackGenerator.InputDevice_BlackGenerator object at 0x0000017A64413CF0>), kwargs={}
+2024-10-21 15:17:15,390 - INFO - Input device at position 0 already exists with the same type.
+2024-10-21 15:17:15,390 - INFO - addStingerPlayer completed successfully.
